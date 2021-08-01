@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background: linear-gradient (#99d1f7 0%, #daf1ff 100%);
+    background-repeat: no-repeat;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    align-content: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #90A4AE;
+    font-size: 20px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 700px;
+    margin: 8px auto;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    color: #000;
+    text-align: center;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    float: right;
+    color: black;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.link:hover {
+    background-color: blanchedalmond;
+}
